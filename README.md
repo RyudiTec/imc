@@ -7,4 +7,5 @@ No JavaScript, aprendi a capturar os valores digitados pelo usuário, calcular o
 
 Quando o botão “Calcular” é clicado, o programa verifica se todos os campos estão preenchidos. Se estiverem, ele faz o cálculo e mostra o resultado. Caso contrário, exibe uma mensagem pedindo para completar os campos.
 
-Esse código me ajudou a entender melhor como HTML, CSS e JavaScript trabalham juntos, principalmente o uso de eventos, manipulação do DOM e validação básica de dados.
+Esse código me ajudou a entender melhor como HTML, CSS e JavaScript trabalham juntos, principalmente o uso de eventos, manipulação do DOM e validação básica de dados.  
+visite meu imc https://ryuditec.github.io/imc/
